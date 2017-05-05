@@ -1,2 +1,2 @@
 # NodeJs
-this repo has all the NodeJs practice files
+this repo contains my NodeJs practice files
