@@ -7,6 +7,7 @@ var timer = setInterval(function(){
   }
 },2000);
 console.log(__dirname);
+console.log(__filename);
 
 setTimeout(function(){
   console.log("time out of 3 seconds");
